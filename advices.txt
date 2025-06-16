@@ -1,0 +1,25 @@
+Always write meaningful commit messages that explain the 'why', not just the 'what'.
+Use git branch for feature development: git checkout -b feature/new-feature
+Remember to pull before you push: git pull origin main && git push origin branch-name
+Write unit tests before implementing your features (TDD approach).
+Use git stash to temporarily save changes: git stash push -m "work in progress"
+Document your code - your future self will thank you.
+Use git log --oneline to see a clean commit history.
+Never commit directly to main/master branch in team projects.
+Use meaningful variable names - code should read like English.
+Create small, focused functions that do one thing well.
+Use git rebase -i HEAD~n to clean up your commit history before merging.
+Always handle errors gracefully in your applications.
+Use git blame to understand code history: git blame filename.ext
+Follow the DRY principle: Don't Repeat Yourself.
+Use git cherry-pick to apply specific commits to other branches.
+Write code comments that explain complex business logic.
+Use git diff to review changes before committing: git diff --staged
+Refactor regularly to keep your codebase clean and maintainable.
+Use git tag to mark important releases: git tag -a v1.0.0 -m "Release version 1.0.0"
+Learn keyboard shortcuts for your IDE to boost productivity.
+Use git reset --soft HEAD~1 to undo the last commit but keep changes staged.
+Practice code reviews - they improve code quality and knowledge sharing.
+Use git bisect to find the commit that introduced a bug.
+Keep your dependencies up to date but test thoroughly after updates.
+Use git config --global alias.st status to create useful shortcuts. 
