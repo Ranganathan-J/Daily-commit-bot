@@ -5,8 +5,8 @@
 
 ---
 
-**Date:** June 16, 2025  
-**Advice:** Document your code - your future self will thank you.
+**Date:** June 17, 2025  
+**Advice:** Use git branch for feature development: git checkout -b feature/new-feature
 
 ---
 
