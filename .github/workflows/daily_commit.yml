@@ -32,8 +32,8 @@ jobs:
       
     - name: Commit and push changes
       run: |
-        git config --local user.email "action@github.com"
-        git config --local user.name "GitHub Action"
+        git config --local user.email "ranganathanj1730@gmail.com"
+        git config --local user.name "Ranganathan J"
         git pull origin main
         git add -A
         git diff --quiet && git diff --staged --quiet || (
