@@ -5,8 +5,8 @@
 
 ---
 
-**Date:** June 25, 2025  
-**Advice:** Write unit tests before implementing your features (TDD approach).
+**Date:** June 26, 2025  
+**Advice:** Always handle errors gracefully in your applications.
 
 ---
 
