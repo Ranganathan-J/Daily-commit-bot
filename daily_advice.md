@@ -5,8 +5,8 @@
 
 ---
 
-**Date:** July 02, 2025  
-**Advice:** Use git log --oneline to see a clean commit history.
+**Date:** July 03, 2025  
+**Advice:** Write code comments that explain complex business logic.
 
 ---
 
