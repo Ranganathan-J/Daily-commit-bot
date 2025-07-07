@@ -5,8 +5,8 @@
 
 ---
 
-**Date:** July 06, 2025  
-**Advice:** Create small, focused functions that do one thing well.
+**Date:** July 07, 2025  
+**Advice:** Use git branch for feature development: git checkout -b feature/new-feature
 
 ---
 
