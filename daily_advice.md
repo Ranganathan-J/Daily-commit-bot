@@ -5,8 +5,8 @@
 
 ---
 
-**Date:** July 07, 2025  
-**Advice:** Use git branch for feature development: git checkout -b feature/new-feature
+**Date:** July 08, 2025  
+**Advice:** Write code comments that explain complex business logic.
 
 ---
 
