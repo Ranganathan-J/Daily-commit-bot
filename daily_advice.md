@@ -5,8 +5,8 @@
 
 ---
 
-**Date:** July 11, 2025  
-**Advice:** Learn keyboard shortcuts for your IDE to boost productivity.
+**Date:** July 12, 2025  
+**Advice:** Remember to pull before you push: git pull origin main && git push origin branch-name
 
 ---
 
