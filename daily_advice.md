@@ -5,8 +5,8 @@
 
 ---
 
-**Date:** July 12, 2025  
-**Advice:** Remember to pull before you push: git pull origin main && git push origin branch-name
+**Date:** July 13, 2025  
+**Advice:** Use git blame to understand code history: git blame filename.ext
 
 ---
 
