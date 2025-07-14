@@ -5,8 +5,8 @@
 
 ---
 
-**Date:** July 13, 2025  
-**Advice:** Use git blame to understand code history: git blame filename.ext
+**Date:** July 14, 2025  
+**Advice:** Use git cherry-pick to apply specific commits to other branches.
 
 ---
 
