@@ -5,8 +5,8 @@
 
 ---
 
-**Date:** July 15, 2025  
-**Advice:** Practice code reviews - they improve code quality and knowledge sharing.
+**Date:** July 16, 2025  
+**Advice:** Use git bisect to find the commit that introduced a bug.
 
 ---
 
