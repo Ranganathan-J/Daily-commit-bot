@@ -5,8 +5,8 @@
 
 ---
 
-**Date:** July 20, 2025  
-**Advice:** Use git bisect to find the commit that introduced a bug.
+**Date:** July 21, 2025  
+**Advice:** Write unit tests before implementing your features (TDD approach).
 
 ---
 
