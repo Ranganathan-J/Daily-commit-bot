@@ -5,8 +5,8 @@
 
 ---
 
-**Date:** July 24, 2025  
-**Advice:** Refactor regularly to keep your codebase clean and maintainable.
+**Date:** July 25, 2025  
+**Advice:** Never commit directly to main/master branch in team projects.
 
 ---
 
