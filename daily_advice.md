@@ -5,8 +5,8 @@
 
 ---
 
-**Date:** July 25, 2025  
-**Advice:** Never commit directly to main/master branch in team projects.
+**Date:** July 26, 2025  
+**Advice:** Create small, focused functions that do one thing well.
 
 ---
 
