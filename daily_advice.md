@@ -5,8 +5,8 @@
 
 ---
 
-**Date:** July 26, 2025  
-**Advice:** Create small, focused functions that do one thing well.
+**Date:** July 27, 2025  
+**Advice:** Remember to pull before you push: git pull origin main && git push origin branch-name
 
 ---
 
