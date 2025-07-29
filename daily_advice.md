@@ -5,8 +5,8 @@
 
 ---
 
-**Date:** July 28, 2025  
-**Advice:** Use git stash to temporarily save changes: git stash push -m "work in progress"
+**Date:** July 29, 2025  
+**Advice:** Use git bisect to find the commit that introduced a bug.
 
 ---
 
