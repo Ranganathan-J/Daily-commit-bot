@@ -5,8 +5,8 @@
 
 ---
 
-**Date:** July 29, 2025  
-**Advice:** Use git bisect to find the commit that introduced a bug.
+**Date:** July 30, 2025  
+**Advice:** Use git reset --soft HEAD~1 to undo the last commit but keep changes staged.
 
 ---
 
