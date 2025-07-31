@@ -5,8 +5,8 @@
 
 ---
 
-**Date:** July 30, 2025  
-**Advice:** Use git reset --soft HEAD~1 to undo the last commit but keep changes staged.
+**Date:** July 31, 2025  
+**Advice:** Use git log --oneline to see a clean commit history.
 
 ---
 
