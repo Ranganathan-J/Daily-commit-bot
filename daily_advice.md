@@ -5,8 +5,8 @@
 
 ---
 
-**Date:** August 01, 2025  
-**Advice:** Keep your dependencies up to date but test thoroughly after updates.
+**Date:** August 02, 2025  
+**Advice:** Use git diff to review changes before committing: git diff --staged
 
 ---
 
