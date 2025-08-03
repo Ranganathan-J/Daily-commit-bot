@@ -5,8 +5,8 @@
 
 ---
 
-**Date:** August 02, 2025  
-**Advice:** Use git diff to review changes before committing: git diff --staged
+**Date:** August 03, 2025  
+**Advice:** Use git rebase -i HEAD~n to clean up your commit history before merging.
 
 ---
 
