@@ -5,8 +5,8 @@
 
 ---
 
-**Date:** August 03, 2025  
-**Advice:** Use git rebase -i HEAD~n to clean up your commit history before merging.
+**Date:** August 04, 2025  
+**Advice:** Never commit directly to main/master branch in team projects.
 
 ---
 
