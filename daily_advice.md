@@ -5,8 +5,8 @@
 
 ---
 
-**Date:** August 05, 2025  
-**Advice:** Use git cherry-pick to apply specific commits to other branches.
+**Date:** August 06, 2025  
+**Advice:** Never commit directly to main/master branch in team projects.
 
 ---
 
