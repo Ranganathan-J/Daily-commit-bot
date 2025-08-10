@@ -5,8 +5,8 @@
 
 ---
 
-**Date:** August 09, 2025  
-**Advice:** Learn keyboard shortcuts for your IDE to boost productivity.
+**Date:** August 10, 2025  
+**Advice:** Write code comments that explain complex business logic.
 
 ---
 
