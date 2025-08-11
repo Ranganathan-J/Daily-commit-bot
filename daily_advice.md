@@ -5,8 +5,8 @@
 
 ---
 
-**Date:** August 10, 2025  
-**Advice:** Write code comments that explain complex business logic.
+**Date:** August 11, 2025  
+**Advice:** Use git cherry-pick to apply specific commits to other branches.
 
 ---
 
