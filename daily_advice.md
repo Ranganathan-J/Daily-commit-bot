@@ -5,8 +5,8 @@
 
 ---
 
-**Date:** August 15, 2025  
-**Advice:** Use git stash to temporarily save changes: git stash push -m "work in progress"
+**Date:** August 16, 2025  
+**Advice:** Document your code - your future self will thank you.
 
 ---
 
