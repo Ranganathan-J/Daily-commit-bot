@@ -5,8 +5,8 @@
 
 ---
 
-**Date:** August 16, 2025  
-**Advice:** Document your code - your future self will thank you.
+**Date:** August 17, 2025  
+**Advice:** Practice code reviews - they improve code quality and knowledge sharing.
 
 ---
 
