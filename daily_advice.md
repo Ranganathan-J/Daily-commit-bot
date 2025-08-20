@@ -5,8 +5,8 @@
 
 ---
 
-**Date:** August 19, 2025  
-**Advice:** Write unit tests before implementing your features (TDD approach).
+**Date:** August 20, 2025  
+**Advice:** Never commit directly to main/master branch in team projects.
 
 ---
 
