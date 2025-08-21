@@ -5,8 +5,8 @@
 
 ---
 
-**Date:** August 20, 2025  
-**Advice:** Never commit directly to main/master branch in team projects.
+**Date:** August 21, 2025  
+**Advice:** Use git stash to temporarily save changes: git stash push -m "work in progress"
 
 ---
 
