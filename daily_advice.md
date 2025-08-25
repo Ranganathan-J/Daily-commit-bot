@@ -5,8 +5,8 @@
 
 ---
 
-**Date:** August 24, 2025  
-**Advice:** Use git bisect to find the commit that introduced a bug.
+**Date:** August 25, 2025  
+**Advice:** Remember to pull before you push: git pull origin main && git push origin branch-name
 
 ---
 
