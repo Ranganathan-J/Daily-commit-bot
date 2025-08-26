@@ -5,8 +5,8 @@
 
 ---
 
-**Date:** August 25, 2025  
-**Advice:** Remember to pull before you push: git pull origin main && git push origin branch-name
+**Date:** August 26, 2025  
+**Advice:** Practice code reviews - they improve code quality and knowledge sharing.
 
 ---
 
