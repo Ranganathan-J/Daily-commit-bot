@@ -5,8 +5,8 @@
 
 ---
 
-**Date:** August 26, 2025  
-**Advice:** Practice code reviews - they improve code quality and knowledge sharing.
+**Date:** August 27, 2025  
+**Advice:** Write code comments that explain complex business logic.
 
 ---
 
