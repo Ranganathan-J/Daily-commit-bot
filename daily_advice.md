@@ -5,8 +5,8 @@
 
 ---
 
-**Date:** August 27, 2025  
-**Advice:** Write code comments that explain complex business logic.
+**Date:** August 28, 2025  
+**Advice:** Always write meaningful commit messages that explain the 'why', not just the 'what'.
 
 ---
 
