@@ -5,8 +5,8 @@
 
 ---
 
-**Date:** August 28, 2025  
-**Advice:** Always write meaningful commit messages that explain the 'why', not just the 'what'.
+**Date:** August 29, 2025  
+**Advice:** Practice code reviews - they improve code quality and knowledge sharing.
 
 ---
 
