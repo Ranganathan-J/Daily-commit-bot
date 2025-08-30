@@ -5,8 +5,8 @@
 
 ---
 
-**Date:** August 29, 2025  
-**Advice:** Practice code reviews - they improve code quality and knowledge sharing.
+**Date:** August 30, 2025  
+**Advice:** Use git stash to temporarily save changes: git stash push -m "work in progress"
 
 ---
 
