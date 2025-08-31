@@ -5,8 +5,8 @@
 
 ---
 
-**Date:** August 30, 2025  
-**Advice:** Use git stash to temporarily save changes: git stash push -m "work in progress"
+**Date:** August 31, 2025  
+**Advice:** Use git diff to review changes before committing: git diff --staged
 
 ---
 
