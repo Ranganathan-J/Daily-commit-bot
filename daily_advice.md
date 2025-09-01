@@ -5,8 +5,8 @@
 
 ---
 
-**Date:** August 31, 2025  
-**Advice:** Use git diff to review changes before committing: git diff --staged
+**Date:** September 01, 2025  
+**Advice:** Learn keyboard shortcuts for your IDE to boost productivity.
 
 ---
 
