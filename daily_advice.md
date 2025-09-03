@@ -5,8 +5,8 @@
 
 ---
 
-**Date:** September 02, 2025  
-**Advice:** Use git log --oneline to see a clean commit history.
+**Date:** September 03, 2025  
+**Advice:** Use git rebase -i HEAD~n to clean up your commit history before merging.
 
 ---
 
