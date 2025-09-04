@@ -5,8 +5,8 @@
 
 ---
 
-**Date:** September 03, 2025  
-**Advice:** Use git rebase -i HEAD~n to clean up your commit history before merging.
+**Date:** September 04, 2025  
+**Advice:** Write code comments that explain complex business logic.
 
 ---
 
