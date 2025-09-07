@@ -5,8 +5,8 @@
 
 ---
 
-**Date:** September 06, 2025  
-**Advice:** Use git tag to mark important releases: git tag -a v1.0.0 -m "Release version 1.0.0"
+**Date:** September 07, 2025  
+**Advice:** Use git config --global alias.st status to create useful shortcuts.
 
 ---
 
