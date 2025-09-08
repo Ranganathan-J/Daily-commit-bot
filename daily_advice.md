@@ -5,8 +5,8 @@
 
 ---
 
-**Date:** September 07, 2025  
-**Advice:** Use git config --global alias.st status to create useful shortcuts.
+**Date:** September 08, 2025  
+**Advice:** Write unit tests before implementing your features (TDD approach).
 
 ---
 
