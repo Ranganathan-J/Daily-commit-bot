@@ -5,8 +5,8 @@
 
 ---
 
-**Date:** September 11, 2025  
-**Advice:** Write unit tests before implementing your features (TDD approach).
+**Date:** September 12, 2025  
+**Advice:** Use git branch for feature development: git checkout -b feature/new-feature
 
 ---
 
