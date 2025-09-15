@@ -5,8 +5,8 @@
 
 ---
 
-**Date:** September 14, 2025  
-**Advice:** Refactor regularly to keep your codebase clean and maintainable.
+**Date:** September 15, 2025  
+**Advice:** Use git branch for feature development: git checkout -b feature/new-feature
 
 ---
 
