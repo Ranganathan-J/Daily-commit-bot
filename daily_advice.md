@@ -5,8 +5,8 @@
 
 ---
 
-**Date:** September 15, 2025  
-**Advice:** Use git branch for feature development: git checkout -b feature/new-feature
+**Date:** September 16, 2025  
+**Advice:** Follow the DRY principle: Don't Repeat Yourself.
 
 ---
 
