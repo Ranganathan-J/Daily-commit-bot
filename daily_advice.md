@@ -5,8 +5,8 @@
 
 ---
 
-**Date:** September 19, 2025  
-**Advice:** Use git cherry-pick to apply specific commits to other branches.
+**Date:** September 20, 2025  
+**Advice:** Always write meaningful commit messages that explain the 'why', not just the 'what'.
 
 ---
 
