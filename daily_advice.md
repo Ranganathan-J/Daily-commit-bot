@@ -5,8 +5,8 @@
 
 ---
 
-**Date:** September 20, 2025  
-**Advice:** Always write meaningful commit messages that explain the 'why', not just the 'what'.
+**Date:** September 21, 2025  
+**Advice:** Use git bisect to find the commit that introduced a bug.
 
 ---
 
