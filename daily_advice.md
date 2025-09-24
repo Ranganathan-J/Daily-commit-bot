@@ -5,8 +5,8 @@
 
 ---
 
-**Date:** September 23, 2025  
-**Advice:** Write unit tests before implementing your features (TDD approach).
+**Date:** September 24, 2025  
+**Advice:** Use meaningful variable names - code should read like English.
 
 ---
 
