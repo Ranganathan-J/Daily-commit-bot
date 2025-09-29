@@ -5,8 +5,8 @@
 
 ---
 
-**Date:** September 28, 2025  
-**Advice:** Write unit tests before implementing your features (TDD approach).
+**Date:** September 29, 2025  
+**Advice:** Create small, focused functions that do one thing well.
 
 ---
 
