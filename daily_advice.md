@@ -5,8 +5,8 @@
 
 ---
 
-**Date:** October 02, 2025  
-**Advice:** Use git cherry-pick to apply specific commits to other branches.
+**Date:** October 03, 2025  
+**Advice:** Document your code - your future self will thank you.
 
 ---
 
