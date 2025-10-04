@@ -5,8 +5,8 @@
 
 ---
 
-**Date:** October 03, 2025  
-**Advice:** Document your code - your future self will thank you.
+**Date:** October 04, 2025  
+**Advice:** Use git reset --soft HEAD~1 to undo the last commit but keep changes staged.
 
 ---
 
