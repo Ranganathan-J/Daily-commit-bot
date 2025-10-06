@@ -5,8 +5,8 @@
 
 ---
 
-**Date:** October 05, 2025  
-**Advice:** Always write meaningful commit messages that explain the 'why', not just the 'what'.
+**Date:** October 06, 2025  
+**Advice:** Use git reset --soft HEAD~1 to undo the last commit but keep changes staged.
 
 ---
 
