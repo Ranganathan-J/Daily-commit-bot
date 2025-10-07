@@ -5,8 +5,8 @@
 
 ---
 
-**Date:** October 06, 2025  
-**Advice:** Use git reset --soft HEAD~1 to undo the last commit but keep changes staged.
+**Date:** October 07, 2025  
+**Advice:** Use git blame to understand code history: git blame filename.ext
 
 ---
 
