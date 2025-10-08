@@ -5,8 +5,8 @@
 
 ---
 
-**Date:** October 07, 2025  
-**Advice:** Use git blame to understand code history: git blame filename.ext
+**Date:** October 08, 2025  
+**Advice:** Use git config --global alias.st status to create useful shortcuts.
 
 ---
 
