@@ -5,8 +5,8 @@
 
 ---
 
-**Date:** October 10, 2025  
-**Advice:** Use meaningful variable names - code should read like English.
+**Date:** October 11, 2025  
+**Advice:** Practice code reviews - they improve code quality and knowledge sharing.
 
 ---
 
