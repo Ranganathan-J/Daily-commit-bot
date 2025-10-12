@@ -5,8 +5,8 @@
 
 ---
 
-**Date:** October 11, 2025  
-**Advice:** Practice code reviews - they improve code quality and knowledge sharing.
+**Date:** October 12, 2025  
+**Advice:** Create small, focused functions that do one thing well.
 
 ---
 
