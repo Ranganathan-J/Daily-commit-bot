@@ -5,8 +5,8 @@
 
 ---
 
-**Date:** October 12, 2025  
-**Advice:** Create small, focused functions that do one thing well.
+**Date:** October 13, 2025  
+**Advice:** Write code comments that explain complex business logic.
 
 ---
 
