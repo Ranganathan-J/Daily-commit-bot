@@ -5,8 +5,8 @@
 
 ---
 
-**Date:** October 13, 2025  
-**Advice:** Write code comments that explain complex business logic.
+**Date:** October 14, 2025  
+**Advice:** Remember to pull before you push: git pull origin main && git push origin branch-name
 
 ---
 
