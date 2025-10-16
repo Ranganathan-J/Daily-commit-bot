@@ -5,8 +5,8 @@
 
 ---
 
-**Date:** October 15, 2025  
-**Advice:** Use git config --global alias.st status to create useful shortcuts.
+**Date:** October 16, 2025  
+**Advice:** Remember to pull before you push: git pull origin main && git push origin branch-name
 
 ---
 
