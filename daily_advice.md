@@ -5,8 +5,8 @@
 
 ---
 
-**Date:** October 16, 2025  
-**Advice:** Remember to pull before you push: git pull origin main && git push origin branch-name
+**Date:** October 17, 2025  
+**Advice:** Use git branch for feature development: git checkout -b feature/new-feature
 
 ---
 
