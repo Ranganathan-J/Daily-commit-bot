@@ -5,8 +5,8 @@
 
 ---
 
-**Date:** October 18, 2025  
-**Advice:** Use git branch for feature development: git checkout -b feature/new-feature
+**Date:** October 19, 2025  
+**Advice:** Always write meaningful commit messages that explain the 'why', not just the 'what'.
 
 ---
 
