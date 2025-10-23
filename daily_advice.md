@@ -5,8 +5,8 @@
 
 ---
 
-**Date:** October 22, 2025  
-**Advice:** Use git tag to mark important releases: git tag -a v1.0.0 -m "Release version 1.0.0"
+**Date:** October 23, 2025  
+**Advice:** Practice code reviews - they improve code quality and knowledge sharing.
 
 ---
 
