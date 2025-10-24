@@ -5,8 +5,8 @@
 
 ---
 
-**Date:** October 23, 2025  
-**Advice:** Practice code reviews - they improve code quality and knowledge sharing.
+**Date:** October 24, 2025  
+**Advice:** Use git blame to understand code history: git blame filename.ext
 
 ---
 
