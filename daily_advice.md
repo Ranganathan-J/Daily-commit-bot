@@ -5,8 +5,8 @@
 
 ---
 
-**Date:** October 24, 2025  
-**Advice:** Use git blame to understand code history: git blame filename.ext
+**Date:** October 25, 2025  
+**Advice:** Always write meaningful commit messages that explain the 'why', not just the 'what'.
 
 ---
 
