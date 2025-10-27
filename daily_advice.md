@@ -5,8 +5,8 @@
 
 ---
 
-**Date:** October 26, 2025  
-**Advice:** Use git bisect to find the commit that introduced a bug.
+**Date:** October 27, 2025  
+**Advice:** Use git log --oneline to see a clean commit history.
 
 ---
 
