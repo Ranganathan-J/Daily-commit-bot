@@ -5,8 +5,8 @@
 
 ---
 
-**Date:** October 30, 2025  
-**Advice:** Never commit directly to main/master branch in team projects.
+**Date:** October 31, 2025  
+**Advice:** Write unit tests before implementing your features (TDD approach).
 
 ---
 
