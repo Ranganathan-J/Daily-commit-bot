@@ -5,8 +5,8 @@
 
 ---
 
-**Date:** October 31, 2025  
-**Advice:** Write unit tests before implementing your features (TDD approach).
+**Date:** November 01, 2025  
+**Advice:** Write code comments that explain complex business logic.
 
 ---
 
