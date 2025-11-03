@@ -5,8 +5,8 @@
 
 ---
 
-**Date:** November 02, 2025  
-**Advice:** Always handle errors gracefully in your applications.
+**Date:** November 03, 2025  
+**Advice:** Remember to pull before you push: git pull origin main && git push origin branch-name
 
 ---
 
