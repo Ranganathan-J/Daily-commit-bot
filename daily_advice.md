@@ -5,8 +5,8 @@
 
 ---
 
-**Date:** November 04, 2025  
-**Advice:** Never commit directly to main/master branch in team projects.
+**Date:** November 05, 2025  
+**Advice:** Follow the DRY principle: Don't Repeat Yourself.
 
 ---
 
