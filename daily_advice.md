@@ -5,8 +5,8 @@
 
 ---
 
-**Date:** November 06, 2025  
-**Advice:** Learn keyboard shortcuts for your IDE to boost productivity.
+**Date:** November 07, 2025  
+**Advice:** Write unit tests before implementing your features (TDD approach).
 
 ---
 
