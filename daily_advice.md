@@ -5,8 +5,8 @@
 
 ---
 
-**Date:** November 07, 2025  
-**Advice:** Write unit tests before implementing your features (TDD approach).
+**Date:** November 08, 2025  
+**Advice:** Remember to pull before you push: git pull origin main && git push origin branch-name
 
 ---
 
