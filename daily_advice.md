@@ -5,8 +5,8 @@
 
 ---
 
-**Date:** November 16, 2025  
-**Advice:** Use git stash to temporarily save changes: git stash push -m "work in progress"
+**Date:** November 17, 2025  
+**Advice:** Use meaningful variable names - code should read like English.
 
 ---
 
