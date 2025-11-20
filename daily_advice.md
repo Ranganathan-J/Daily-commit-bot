@@ -5,8 +5,8 @@
 
 ---
 
-**Date:** November 19, 2025  
-**Advice:** Use git log --oneline to see a clean commit history.
+**Date:** November 20, 2025  
+**Advice:** Use git cherry-pick to apply specific commits to other branches.
 
 ---
 
