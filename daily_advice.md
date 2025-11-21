@@ -5,8 +5,8 @@
 
 ---
 
-**Date:** November 20, 2025  
-**Advice:** Use git cherry-pick to apply specific commits to other branches.
+**Date:** November 21, 2025  
+**Advice:** Write unit tests before implementing your features (TDD approach).
 
 ---
 
