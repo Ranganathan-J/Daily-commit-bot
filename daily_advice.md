@@ -5,8 +5,8 @@
 
 ---
 
-**Date:** November 21, 2025  
-**Advice:** Write unit tests before implementing your features (TDD approach).
+**Date:** November 22, 2025  
+**Advice:** Keep your dependencies up to date but test thoroughly after updates.
 
 ---
 
