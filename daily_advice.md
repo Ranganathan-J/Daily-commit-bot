@@ -5,8 +5,8 @@
 
 ---
 
-**Date:** November 23, 2025  
-**Advice:** Use git branch for feature development: git checkout -b feature/new-feature
+**Date:** November 24, 2025  
+**Advice:** Use git config --global alias.st status to create useful shortcuts.
 
 ---
 
