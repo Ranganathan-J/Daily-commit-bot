@@ -5,8 +5,8 @@
 
 ---
 
-**Date:** November 26, 2025  
-**Advice:** Always handle errors gracefully in your applications.
+**Date:** November 27, 2025  
+**Advice:** Write unit tests before implementing your features (TDD approach).
 
 ---
 
