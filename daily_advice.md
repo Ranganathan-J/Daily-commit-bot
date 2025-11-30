@@ -5,8 +5,8 @@
 
 ---
 
-**Date:** November 29, 2025  
-**Advice:** Use git log --oneline to see a clean commit history.
+**Date:** November 30, 2025  
+**Advice:** Learn keyboard shortcuts for your IDE to boost productivity.
 
 ---
 
