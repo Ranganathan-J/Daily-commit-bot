@@ -5,8 +5,8 @@
 
 ---
 
-**Date:** December 01, 2025  
-**Advice:** Use git tag to mark important releases: git tag -a v1.0.0 -m "Release version 1.0.0"
+**Date:** December 02, 2025  
+**Advice:** Follow the DRY principle: Don't Repeat Yourself.
 
 ---
 
