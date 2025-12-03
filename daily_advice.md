@@ -5,8 +5,8 @@
 
 ---
 
-**Date:** December 02, 2025  
-**Advice:** Follow the DRY principle: Don't Repeat Yourself.
+**Date:** December 03, 2025  
+**Advice:** Practice code reviews - they improve code quality and knowledge sharing.
 
 ---
 
