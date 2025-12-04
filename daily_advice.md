@@ -5,8 +5,8 @@
 
 ---
 
-**Date:** December 03, 2025  
-**Advice:** Practice code reviews - they improve code quality and knowledge sharing.
+**Date:** December 04, 2025  
+**Advice:** Use git log --oneline to see a clean commit history.
 
 ---
 
