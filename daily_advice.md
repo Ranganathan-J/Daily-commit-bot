@@ -5,8 +5,8 @@
 
 ---
 
-**Date:** December 04, 2025  
-**Advice:** Use git log --oneline to see a clean commit history.
+**Date:** December 05, 2025  
+**Advice:** Never commit directly to main/master branch in team projects.
 
 ---
 
