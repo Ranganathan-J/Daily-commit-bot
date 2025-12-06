@@ -5,8 +5,8 @@
 
 ---
 
-**Date:** December 05, 2025  
-**Advice:** Never commit directly to main/master branch in team projects.
+**Date:** December 06, 2025  
+**Advice:** Use git bisect to find the commit that introduced a bug.
 
 ---
 
