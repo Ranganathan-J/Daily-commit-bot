@@ -5,8 +5,8 @@
 
 ---
 
-**Date:** December 07, 2025  
-**Advice:** Always write meaningful commit messages that explain the 'why', not just the 'what'.
+**Date:** December 08, 2025  
+**Advice:** Remember to pull before you push: git pull origin main && git push origin branch-name
 
 ---
 
