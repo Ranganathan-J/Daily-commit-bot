@@ -5,8 +5,8 @@
 
 ---
 
-**Date:** December 09, 2025  
-**Advice:** Learn keyboard shortcuts for your IDE to boost productivity.
+**Date:** December 10, 2025  
+**Advice:** Use git stash to temporarily save changes: git stash push -m "work in progress"
 
 ---
 
