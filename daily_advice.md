@@ -5,8 +5,8 @@
 
 ---
 
-**Date:** December 10, 2025  
-**Advice:** Use git stash to temporarily save changes: git stash push -m "work in progress"
+**Date:** December 11, 2025  
+**Advice:** Write unit tests before implementing your features (TDD approach).
 
 ---
 
