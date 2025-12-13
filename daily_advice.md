@@ -5,8 +5,8 @@
 
 ---
 
-**Date:** December 12, 2025  
-**Advice:** Remember to pull before you push: git pull origin main && git push origin branch-name
+**Date:** December 13, 2025  
+**Advice:** Use git log --oneline to see a clean commit history.
 
 ---
 
