@@ -5,8 +5,8 @@
 
 ---
 
-**Date:** December 13, 2025  
-**Advice:** Use git log --oneline to see a clean commit history.
+**Date:** December 14, 2025  
+**Advice:** Write unit tests before implementing your features (TDD approach).
 
 ---
 
