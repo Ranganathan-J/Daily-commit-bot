@@ -5,8 +5,8 @@
 
 ---
 
-**Date:** December 14, 2025  
-**Advice:** Write unit tests before implementing your features (TDD approach).
+**Date:** December 15, 2025  
+**Advice:** Use git diff to review changes before committing: git diff --staged
 
 ---
 
