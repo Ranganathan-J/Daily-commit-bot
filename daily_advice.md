@@ -5,8 +5,8 @@
 
 ---
 
-**Date:** December 17, 2025  
-**Advice:** Always write meaningful commit messages that explain the 'why', not just the 'what'.
+**Date:** December 18, 2025  
+**Advice:** Use git config --global alias.st status to create useful shortcuts.
 
 ---
 
