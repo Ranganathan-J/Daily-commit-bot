@@ -5,8 +5,8 @@
 
 ---
 
-**Date:** December 19, 2025  
-**Advice:** Use git config --global alias.st status to create useful shortcuts.
+**Date:** December 20, 2025  
+**Advice:** Document your code - your future self will thank you.
 
 ---
 
