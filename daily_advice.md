@@ -5,8 +5,8 @@
 
 ---
 
-**Date:** December 21, 2025  
-**Advice:** Never commit directly to main/master branch in team projects.
+**Date:** December 22, 2025  
+**Advice:** Write code comments that explain complex business logic.
 
 ---
 
