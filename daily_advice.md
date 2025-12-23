@@ -5,8 +5,8 @@
 
 ---
 
-**Date:** December 22, 2025  
-**Advice:** Write code comments that explain complex business logic.
+**Date:** December 23, 2025  
+**Advice:** Create small, focused functions that do one thing well.
 
 ---
 
