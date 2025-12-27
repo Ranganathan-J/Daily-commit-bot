@@ -5,8 +5,8 @@
 
 ---
 
-**Date:** December 26, 2025  
-**Advice:** Keep your dependencies up to date but test thoroughly after updates.
+**Date:** December 27, 2025  
+**Advice:** Use git tag to mark important releases: git tag -a v1.0.0 -m "Release version 1.0.0"
 
 ---
 
