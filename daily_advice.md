@@ -5,8 +5,8 @@
 
 ---
 
-**Date:** December 27, 2025  
-**Advice:** Use git tag to mark important releases: git tag -a v1.0.0 -m "Release version 1.0.0"
+**Date:** December 28, 2025  
+**Advice:** Use git reset --soft HEAD~1 to undo the last commit but keep changes staged.
 
 ---
 
