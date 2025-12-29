@@ -5,8 +5,8 @@
 
 ---
 
-**Date:** December 28, 2025  
-**Advice:** Use git reset --soft HEAD~1 to undo the last commit but keep changes staged.
+**Date:** December 29, 2025  
+**Advice:** Use git rebase -i HEAD~n to clean up your commit history before merging.
 
 ---
 
