@@ -5,8 +5,8 @@
 
 ---
 
-**Date:** December 30, 2025  
-**Advice:** Use git tag to mark important releases: git tag -a v1.0.0 -m "Release version 1.0.0"
+**Date:** December 31, 2025  
+**Advice:** Use git stash to temporarily save changes: git stash push -m "work in progress"
 
 ---
 
