@@ -5,8 +5,8 @@
 
 ---
 
-**Date:** December 31, 2025  
-**Advice:** Use git stash to temporarily save changes: git stash push -m "work in progress"
+**Date:** January 01, 2026  
+**Advice:** Always write meaningful commit messages that explain the 'why', not just the 'what'.
 
 ---
 
