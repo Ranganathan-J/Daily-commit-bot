@@ -5,8 +5,8 @@
 
 ---
 
-**Date:** January 03, 2026  
-**Advice:** Create small, focused functions that do one thing well.
+**Date:** January 04, 2026  
+**Advice:** Use git bisect to find the commit that introduced a bug.
 
 ---
 
