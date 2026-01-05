@@ -5,8 +5,8 @@
 
 ---
 
-**Date:** January 04, 2026  
-**Advice:** Use git bisect to find the commit that introduced a bug.
+**Date:** January 05, 2026  
+**Advice:** Use git log --oneline to see a clean commit history.
 
 ---
 
