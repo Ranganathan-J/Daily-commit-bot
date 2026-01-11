@@ -5,8 +5,8 @@
 
 ---
 
-**Date:** January 10, 2026  
-**Advice:** Use git rebase -i HEAD~n to clean up your commit history before merging.
+**Date:** January 11, 2026  
+**Advice:** Write code comments that explain complex business logic.
 
 ---
 
