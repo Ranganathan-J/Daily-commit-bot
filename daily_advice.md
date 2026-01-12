@@ -5,8 +5,8 @@
 
 ---
 
-**Date:** January 11, 2026  
-**Advice:** Write code comments that explain complex business logic.
+**Date:** January 12, 2026  
+**Advice:** Practice code reviews - they improve code quality and knowledge sharing.
 
 ---
 
