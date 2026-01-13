@@ -5,8 +5,8 @@
 
 ---
 
-**Date:** January 12, 2026  
-**Advice:** Practice code reviews - they improve code quality and knowledge sharing.
+**Date:** January 13, 2026  
+**Advice:** Remember to pull before you push: git pull origin main && git push origin branch-name
 
 ---
 
