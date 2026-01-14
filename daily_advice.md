@@ -5,8 +5,8 @@
 
 ---
 
-**Date:** January 13, 2026  
-**Advice:** Remember to pull before you push: git pull origin main && git push origin branch-name
+**Date:** January 14, 2026  
+**Advice:** Use git rebase -i HEAD~n to clean up your commit history before merging.
 
 ---
 
