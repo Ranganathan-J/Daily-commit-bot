@@ -5,8 +5,8 @@
 
 ---
 
-**Date:** January 14, 2026  
-**Advice:** Use git rebase -i HEAD~n to clean up your commit history before merging.
+**Date:** January 15, 2026  
+**Advice:** Use git log --oneline to see a clean commit history.
 
 ---
 
