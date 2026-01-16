@@ -5,8 +5,8 @@
 
 ---
 
-**Date:** January 15, 2026  
-**Advice:** Use git log --oneline to see a clean commit history.
+**Date:** January 16, 2026  
+**Advice:** Write code comments that explain complex business logic.
 
 ---
 
