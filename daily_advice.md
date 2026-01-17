@@ -5,8 +5,8 @@
 
 ---
 
-**Date:** January 16, 2026  
-**Advice:** Write code comments that explain complex business logic.
+**Date:** January 17, 2026  
+**Advice:** Use git diff to review changes before committing: git diff --staged
 
 ---
 
