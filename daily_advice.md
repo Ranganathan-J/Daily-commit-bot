@@ -5,8 +5,8 @@
 
 ---
 
-**Date:** January 17, 2026  
-**Advice:** Use git diff to review changes before committing: git diff --staged
+**Date:** January 18, 2026  
+**Advice:** Use git branch for feature development: git checkout -b feature/new-feature
 
 ---
 
