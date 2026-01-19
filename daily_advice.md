@@ -5,8 +5,8 @@
 
 ---
 
-**Date:** January 18, 2026  
-**Advice:** Use git branch for feature development: git checkout -b feature/new-feature
+**Date:** January 19, 2026  
+**Advice:** Use git blame to understand code history: git blame filename.ext
 
 ---
 
