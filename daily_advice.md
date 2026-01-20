@@ -5,8 +5,8 @@
 
 ---
 
-**Date:** January 19, 2026  
-**Advice:** Use git blame to understand code history: git blame filename.ext
+**Date:** January 20, 2026  
+**Advice:** Use meaningful variable names - code should read like English.
 
 ---
 
