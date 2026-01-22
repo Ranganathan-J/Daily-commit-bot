@@ -5,8 +5,8 @@
 
 ---
 
-**Date:** January 21, 2026  
-**Advice:** Refactor regularly to keep your codebase clean and maintainable.
+**Date:** January 22, 2026  
+**Advice:** Write code comments that explain complex business logic.
 
 ---
 
