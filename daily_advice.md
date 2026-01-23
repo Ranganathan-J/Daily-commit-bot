@@ -5,8 +5,8 @@
 
 ---
 
-**Date:** January 22, 2026  
-**Advice:** Write code comments that explain complex business logic.
+**Date:** January 23, 2026  
+**Advice:** Create small, focused functions that do one thing well.
 
 ---
 
