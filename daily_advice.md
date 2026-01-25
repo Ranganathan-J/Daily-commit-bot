@@ -5,8 +5,8 @@
 
 ---
 
-**Date:** January 24, 2026  
-**Advice:** Remember to pull before you push: git pull origin main && git push origin branch-name
+**Date:** January 25, 2026  
+**Advice:** Use git cherry-pick to apply specific commits to other branches.
 
 ---
 
