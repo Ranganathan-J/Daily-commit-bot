@@ -5,8 +5,8 @@
 
 ---
 
-**Date:** January 25, 2026  
-**Advice:** Use git cherry-pick to apply specific commits to other branches.
+**Date:** January 26, 2026  
+**Advice:** Use git log --oneline to see a clean commit history.
 
 ---
 
