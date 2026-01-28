@@ -5,8 +5,8 @@
 
 ---
 
-**Date:** January 27, 2026  
-**Advice:** Use git bisect to find the commit that introduced a bug.
+**Date:** January 28, 2026  
+**Advice:** Practice code reviews - they improve code quality and knowledge sharing.
 
 ---
 
