@@ -5,8 +5,8 @@
 
 ---
 
-**Date:** January 28, 2026  
-**Advice:** Practice code reviews - they improve code quality and knowledge sharing.
+**Date:** January 29, 2026  
+**Advice:** Follow the DRY principle: Don't Repeat Yourself.
 
 ---
 
