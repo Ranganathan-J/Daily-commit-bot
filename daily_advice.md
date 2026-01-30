@@ -5,8 +5,8 @@
 
 ---
 
-**Date:** January 29, 2026  
-**Advice:** Follow the DRY principle: Don't Repeat Yourself.
+**Date:** January 30, 2026  
+**Advice:** Use git bisect to find the commit that introduced a bug.
 
 ---
 
