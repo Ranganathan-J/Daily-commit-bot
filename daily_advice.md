@@ -5,8 +5,8 @@
 
 ---
 
-**Date:** January 30, 2026  
-**Advice:** Use git bisect to find the commit that introduced a bug.
+**Date:** January 31, 2026  
+**Advice:** Keep your dependencies up to date but test thoroughly after updates.
 
 ---
 
