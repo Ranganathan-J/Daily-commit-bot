@@ -5,8 +5,8 @@
 
 ---
 
-**Date:** February 02, 2026  
-**Advice:** Follow the DRY principle: Don't Repeat Yourself.
+**Date:** February 03, 2026  
+**Advice:** Use git reset --soft HEAD~1 to undo the last commit but keep changes staged.
 
 ---
 
