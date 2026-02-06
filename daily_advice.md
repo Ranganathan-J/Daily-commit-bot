@@ -5,8 +5,8 @@
 
 ---
 
-**Date:** February 05, 2026  
-**Advice:** Follow the DRY principle: Don't Repeat Yourself.
+**Date:** February 06, 2026  
+**Advice:** Use git cherry-pick to apply specific commits to other branches.
 
 ---
 
