@@ -5,8 +5,8 @@
 
 ---
 
-**Date:** February 09, 2026  
-**Advice:** Remember to pull before you push: git pull origin main && git push origin branch-name
+**Date:** February 10, 2026  
+**Advice:** Use git bisect to find the commit that introduced a bug.
 
 ---
 
