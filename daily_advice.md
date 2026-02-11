@@ -5,8 +5,8 @@
 
 ---
 
-**Date:** February 10, 2026  
-**Advice:** Use git bisect to find the commit that introduced a bug.
+**Date:** February 11, 2026  
+**Advice:** Use meaningful variable names - code should read like English.
 
 ---
 
