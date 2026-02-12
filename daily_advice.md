@@ -5,8 +5,8 @@
 
 ---
 
-**Date:** February 11, 2026  
-**Advice:** Use meaningful variable names - code should read like English.
+**Date:** February 12, 2026  
+**Advice:** Write unit tests before implementing your features (TDD approach).
 
 ---
 
