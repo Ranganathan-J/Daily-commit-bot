@@ -5,8 +5,8 @@
 
 ---
 
-**Date:** February 16, 2026  
-**Advice:** Refactor regularly to keep your codebase clean and maintainable.
+**Date:** February 17, 2026  
+**Advice:** Use git stash to temporarily save changes: git stash push -m "work in progress"
 
 ---
 
