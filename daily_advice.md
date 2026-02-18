@@ -5,8 +5,8 @@
 
 ---
 
-**Date:** February 17, 2026  
-**Advice:** Use git stash to temporarily save changes: git stash push -m "work in progress"
+**Date:** February 18, 2026  
+**Advice:** Use git config --global alias.st status to create useful shortcuts.
 
 ---
 
