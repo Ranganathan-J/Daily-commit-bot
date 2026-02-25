@@ -5,8 +5,8 @@
 
 ---
 
-**Date:** February 24, 2026  
-**Advice:** Always handle errors gracefully in your applications.
+**Date:** February 25, 2026  
+**Advice:** Remember to pull before you push: git pull origin main && git push origin branch-name
 
 ---
 
