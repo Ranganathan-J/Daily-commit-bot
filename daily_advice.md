@@ -5,8 +5,8 @@
 
 ---
 
-**Date:** February 26, 2026  
-**Advice:** Keep your dependencies up to date but test thoroughly after updates.
+**Date:** February 27, 2026  
+**Advice:** Use git cherry-pick to apply specific commits to other branches.
 
 ---
 
