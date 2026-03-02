@@ -5,8 +5,8 @@
 
 ---
 
-**Date:** March 01, 2026  
-**Advice:** Use git diff to review changes before committing: git diff --staged
+**Date:** March 02, 2026  
+**Advice:** Use git reset --soft HEAD~1 to undo the last commit but keep changes staged.
 
 ---
 
