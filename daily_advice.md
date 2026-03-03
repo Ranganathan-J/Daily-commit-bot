@@ -5,8 +5,8 @@
 
 ---
 
-**Date:** March 02, 2026  
-**Advice:** Use git reset --soft HEAD~1 to undo the last commit but keep changes staged.
+**Date:** March 03, 2026  
+**Advice:** Create small, focused functions that do one thing well.
 
 ---
 
