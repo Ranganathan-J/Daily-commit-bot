@@ -5,8 +5,8 @@
 
 ---
 
-**Date:** March 06, 2026  
-**Advice:** Always write meaningful commit messages that explain the 'why', not just the 'what'.
+**Date:** March 07, 2026  
+**Advice:** Use git diff to review changes before committing: git diff --staged
 
 ---
 
