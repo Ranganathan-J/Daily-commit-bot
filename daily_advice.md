@@ -5,8 +5,8 @@
 
 ---
 
-**Date:** March 07, 2026  
-**Advice:** Use git diff to review changes before committing: git diff --staged
+**Date:** March 08, 2026  
+**Advice:** Use git blame to understand code history: git blame filename.ext
 
 ---
 
