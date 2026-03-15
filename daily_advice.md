@@ -5,8 +5,8 @@
 
 ---
 
-**Date:** March 14, 2026  
-**Advice:** Use git blame to understand code history: git blame filename.ext
+**Date:** March 15, 2026  
+**Advice:** Practice code reviews - they improve code quality and knowledge sharing.
 
 ---
 
