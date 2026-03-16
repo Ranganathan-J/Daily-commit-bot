@@ -5,8 +5,8 @@
 
 ---
 
-**Date:** March 15, 2026  
-**Advice:** Practice code reviews - they improve code quality and knowledge sharing.
+**Date:** March 16, 2026  
+**Advice:** Write code comments that explain complex business logic.
 
 ---
 
