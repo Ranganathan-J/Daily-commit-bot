@@ -5,8 +5,8 @@
 
 ---
 
-**Date:** March 23, 2026  
-**Advice:** Follow the DRY principle: Don't Repeat Yourself.
+**Date:** March 24, 2026  
+**Advice:** Write unit tests before implementing your features (TDD approach).
 
 ---
 
