@@ -5,8 +5,8 @@
 
 ---
 
-**Date:** March 24, 2026  
-**Advice:** Write unit tests before implementing your features (TDD approach).
+**Date:** March 25, 2026  
+**Advice:** Use git bisect to find the commit that introduced a bug.
 
 ---
 
