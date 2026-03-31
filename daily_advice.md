@@ -5,8 +5,8 @@
 
 ---
 
-**Date:** March 30, 2026  
-**Advice:** Create small, focused functions that do one thing well.
+**Date:** March 31, 2026  
+**Advice:** Use git config --global alias.st status to create useful shortcuts.
 
 ---
 
