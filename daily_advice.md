@@ -5,8 +5,8 @@
 
 ---
 
-**Date:** April 01, 2026  
-**Advice:** Use git bisect to find the commit that introduced a bug.
+**Date:** April 02, 2026  
+**Advice:** Use git stash to temporarily save changes: git stash push -m "work in progress"
 
 ---
 
