@@ -5,8 +5,8 @@
 
 ---
 
-**Date:** April 02, 2026  
-**Advice:** Use git stash to temporarily save changes: git stash push -m "work in progress"
+**Date:** April 03, 2026  
+**Advice:** Remember to pull before you push: git pull origin main && git push origin branch-name
 
 ---
 
