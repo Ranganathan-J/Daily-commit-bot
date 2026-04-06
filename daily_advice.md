@@ -5,8 +5,8 @@
 
 ---
 
-**Date:** April 05, 2026  
-**Advice:** Use git branch for feature development: git checkout -b feature/new-feature
+**Date:** April 06, 2026  
+**Advice:** Never commit directly to main/master branch in team projects.
 
 ---
 
