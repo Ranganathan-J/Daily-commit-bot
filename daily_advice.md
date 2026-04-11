@@ -5,8 +5,8 @@
 
 ---
 
-**Date:** April 10, 2026  
-**Advice:** Document your code - your future self will thank you.
+**Date:** April 11, 2026  
+**Advice:** Never commit directly to main/master branch in team projects.
 
 ---
 
