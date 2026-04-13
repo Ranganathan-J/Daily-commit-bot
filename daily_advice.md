@@ -5,8 +5,8 @@
 
 ---
 
-**Date:** April 12, 2026  
-**Advice:** Keep your dependencies up to date but test thoroughly after updates.
+**Date:** April 13, 2026  
+**Advice:** Write code comments that explain complex business logic.
 
 ---
 
