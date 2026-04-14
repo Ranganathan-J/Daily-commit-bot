@@ -5,8 +5,8 @@
 
 ---
 
-**Date:** April 13, 2026  
-**Advice:** Write code comments that explain complex business logic.
+**Date:** April 14, 2026  
+**Advice:** Document your code - your future self will thank you.
 
 ---
 
