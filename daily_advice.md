@@ -5,8 +5,8 @@
 
 ---
 
-**Date:** April 16, 2026  
-**Advice:** Use git cherry-pick to apply specific commits to other branches.
+**Date:** April 17, 2026  
+**Advice:** Use git stash to temporarily save changes: git stash push -m "work in progress"
 
 ---
 
