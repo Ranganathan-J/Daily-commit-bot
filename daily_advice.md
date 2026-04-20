@@ -5,8 +5,8 @@
 
 ---
 
-**Date:** April 19, 2026  
-**Advice:** Write code comments that explain complex business logic.
+**Date:** April 20, 2026  
+**Advice:** Remember to pull before you push: git pull origin main && git push origin branch-name
 
 ---
 
