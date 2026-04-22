@@ -5,8 +5,8 @@
 
 ---
 
-**Date:** April 21, 2026  
-**Advice:** Use git config --global alias.st status to create useful shortcuts.
+**Date:** April 22, 2026  
+**Advice:** Always handle errors gracefully in your applications.
 
 ---
 
