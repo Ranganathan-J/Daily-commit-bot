@@ -5,8 +5,8 @@
 
 ---
 
-**Date:** April 24, 2026  
-**Advice:** Use git blame to understand code history: git blame filename.ext
+**Date:** April 25, 2026  
+**Advice:** Use git log --oneline to see a clean commit history.
 
 ---
 
