@@ -5,8 +5,8 @@
 
 ---
 
-**Date:** April 27, 2026  
-**Advice:** Document your code - your future self will thank you.
+**Date:** April 28, 2026  
+**Advice:** Remember to pull before you push: git pull origin main && git push origin branch-name
 
 ---
 
