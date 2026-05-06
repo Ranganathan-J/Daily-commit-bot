@@ -5,8 +5,8 @@
 
 ---
 
-**Date:** May 05, 2026  
-**Advice:** Remember to pull before you push: git pull origin main && git push origin branch-name
+**Date:** May 06, 2026  
+**Advice:** Write unit tests before implementing your features (TDD approach).
 
 ---
 
