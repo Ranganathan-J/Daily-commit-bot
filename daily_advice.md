@@ -5,8 +5,8 @@
 
 ---
 
-**Date:** May 06, 2026  
-**Advice:** Write unit tests before implementing your features (TDD approach).
+**Date:** May 07, 2026  
+**Advice:** Refactor regularly to keep your codebase clean and maintainable.
 
 ---
 
