@@ -5,8 +5,8 @@
 
 ---
 
-**Date:** May 08, 2026  
-**Advice:** Never commit directly to main/master branch in team projects.
+**Date:** May 09, 2026  
+**Advice:** Practice code reviews - they improve code quality and knowledge sharing.
 
 ---
 
