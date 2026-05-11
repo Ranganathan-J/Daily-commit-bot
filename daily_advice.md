@@ -5,8 +5,8 @@
 
 ---
 
-**Date:** May 10, 2026  
-**Advice:** Keep your dependencies up to date but test thoroughly after updates.
+**Date:** May 11, 2026  
+**Advice:** Use git diff to review changes before committing: git diff --staged
 
 ---
 
