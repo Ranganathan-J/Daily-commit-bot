@@ -5,8 +5,8 @@
 
 ---
 
-**Date:** May 12, 2026  
-**Advice:** Learn keyboard shortcuts for your IDE to boost productivity.
+**Date:** May 13, 2026  
+**Advice:** Use git log --oneline to see a clean commit history.
 
 ---
 
