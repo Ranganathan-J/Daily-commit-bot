@@ -5,8 +5,8 @@
 
 ---
 
-**Date:** May 15, 2026  
-**Advice:** Use git branch for feature development: git checkout -b feature/new-feature
+**Date:** May 16, 2026  
+**Advice:** Use git tag to mark important releases: git tag -a v1.0.0 -m "Release version 1.0.0"
 
 ---
 
