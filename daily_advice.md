@@ -5,8 +5,8 @@
 
 ---
 
-**Date:** May 18, 2026  
-**Advice:** Practice code reviews - they improve code quality and knowledge sharing.
+**Date:** May 19, 2026  
+**Advice:** Use git log --oneline to see a clean commit history.
 
 ---
 
