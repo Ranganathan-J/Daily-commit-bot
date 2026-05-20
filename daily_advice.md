@@ -5,8 +5,8 @@
 
 ---
 
-**Date:** May 19, 2026  
-**Advice:** Use git log --oneline to see a clean commit history.
+**Date:** May 20, 2026  
+**Advice:** Use git reset --soft HEAD~1 to undo the last commit but keep changes staged.
 
 ---
 
