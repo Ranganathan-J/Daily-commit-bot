@@ -5,8 +5,8 @@
 
 ---
 
-**Date:** May 20, 2026  
-**Advice:** Use git reset --soft HEAD~1 to undo the last commit but keep changes staged.
+**Date:** May 21, 2026  
+**Advice:** Always handle errors gracefully in your applications.
 
 ---
 
