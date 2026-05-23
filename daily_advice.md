@@ -5,8 +5,8 @@
 
 ---
 
-**Date:** May 22, 2026  
-**Advice:** Create small, focused functions that do one thing well.
+**Date:** May 23, 2026  
+**Advice:** Always write meaningful commit messages that explain the 'why', not just the 'what'.
 
 ---
 
