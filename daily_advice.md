@@ -5,8 +5,8 @@
 
 ---
 
-**Date:** May 23, 2026  
-**Advice:** Always write meaningful commit messages that explain the 'why', not just the 'what'.
+**Date:** May 24, 2026  
+**Advice:** Use git branch for feature development: git checkout -b feature/new-feature
 
 ---
 
