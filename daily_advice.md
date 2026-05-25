@@ -5,8 +5,8 @@
 
 ---
 
-**Date:** May 24, 2026  
-**Advice:** Use git branch for feature development: git checkout -b feature/new-feature
+**Date:** May 25, 2026  
+**Advice:** Use git log --oneline to see a clean commit history.
 
 ---
 
