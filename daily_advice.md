@@ -5,8 +5,8 @@
 
 ---
 
-**Date:** May 25, 2026  
-**Advice:** Use git log --oneline to see a clean commit history.
+**Date:** May 26, 2026  
+**Advice:** Never commit directly to main/master branch in team projects.
 
 ---
 
