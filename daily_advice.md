@@ -5,8 +5,8 @@
 
 ---
 
-**Date:** May 28, 2026  
-**Advice:** Use git cherry-pick to apply specific commits to other branches.
+**Date:** May 29, 2026  
+**Advice:** Document your code - your future self will thank you.
 
 ---
 
