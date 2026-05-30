@@ -5,8 +5,8 @@
 
 ---
 
-**Date:** May 29, 2026  
-**Advice:** Document your code - your future self will thank you.
+**Date:** May 30, 2026  
+**Advice:** Use git rebase -i HEAD~n to clean up your commit history before merging.
 
 ---
 
