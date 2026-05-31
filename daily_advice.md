@@ -5,8 +5,8 @@
 
 ---
 
-**Date:** May 30, 2026  
-**Advice:** Use git rebase -i HEAD~n to clean up your commit history before merging.
+**Date:** May 31, 2026  
+**Advice:** Use git stash to temporarily save changes: git stash push -m "work in progress"
 
 ---
 
