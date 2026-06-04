@@ -5,8 +5,8 @@
 
 ---
 
-**Date:** June 03, 2026  
-**Advice:** Always write meaningful commit messages that explain the 'why', not just the 'what'.
+**Date:** June 04, 2026  
+**Advice:** Remember to pull before you push: git pull origin main && git push origin branch-name
 
 ---
 
