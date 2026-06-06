@@ -5,8 +5,8 @@
 
 ---
 
-**Date:** June 05, 2026  
-**Advice:** Follow the DRY principle: Don't Repeat Yourself.
+**Date:** June 06, 2026  
+**Advice:** Document your code - your future self will thank you.
 
 ---
 
