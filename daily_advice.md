@@ -5,8 +5,8 @@
 
 ---
 
-**Date:** June 09, 2026  
-**Advice:** Use git branch for feature development: git checkout -b feature/new-feature
+**Date:** June 10, 2026  
+**Advice:** Follow the DRY principle: Don't Repeat Yourself.
 
 ---
 
