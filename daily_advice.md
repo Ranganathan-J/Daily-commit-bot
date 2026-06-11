@@ -5,8 +5,8 @@
 
 ---
 
-**Date:** June 10, 2026  
-**Advice:** Follow the DRY principle: Don't Repeat Yourself.
+**Date:** June 11, 2026  
+**Advice:** Create small, focused functions that do one thing well.
 
 ---
 
