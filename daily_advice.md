@@ -5,8 +5,8 @@
 
 ---
 
-**Date:** June 12, 2026  
-**Advice:** Use meaningful variable names - code should read like English.
+**Date:** June 13, 2026  
+**Advice:** Remember to pull before you push: git pull origin main && git push origin branch-name
 
 ---
 
