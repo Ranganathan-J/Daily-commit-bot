@@ -5,8 +5,8 @@
 
 ---
 
-**Date:** June 14, 2026  
-**Advice:** Refactor regularly to keep your codebase clean and maintainable.
+**Date:** June 15, 2026  
+**Advice:** Use git branch for feature development: git checkout -b feature/new-feature
 
 ---
 
