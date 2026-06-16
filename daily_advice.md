@@ -5,8 +5,8 @@
 
 ---
 
-**Date:** June 15, 2026  
-**Advice:** Use git branch for feature development: git checkout -b feature/new-feature
+**Date:** June 16, 2026  
+**Advice:** Practice code reviews - they improve code quality and knowledge sharing.
 
 ---
 
