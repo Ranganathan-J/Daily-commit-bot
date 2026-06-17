@@ -5,8 +5,8 @@
 
 ---
 
-**Date:** June 16, 2026  
-**Advice:** Practice code reviews - they improve code quality and knowledge sharing.
+**Date:** June 17, 2026  
+**Advice:** Learn keyboard shortcuts for your IDE to boost productivity.
 
 ---
 
