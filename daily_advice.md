@@ -5,8 +5,8 @@
 
 ---
 
-**Date:** June 17, 2026  
-**Advice:** Learn keyboard shortcuts for your IDE to boost productivity.
+**Date:** June 18, 2026  
+**Advice:** Use git cherry-pick to apply specific commits to other branches.
 
 ---
 
