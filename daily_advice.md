@@ -5,8 +5,8 @@
 
 ---
 
-**Date:** June 19, 2026  
-**Advice:** Keep your dependencies up to date but test thoroughly after updates.
+**Date:** June 20, 2026  
+**Advice:** Create small, focused functions that do one thing well.
 
 ---
 
