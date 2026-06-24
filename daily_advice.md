@@ -5,8 +5,8 @@
 
 ---
 
-**Date:** June 23, 2026  
-**Advice:** Use git bisect to find the commit that introduced a bug.
+**Date:** June 24, 2026  
+**Advice:** Use git config --global alias.st status to create useful shortcuts.
 
 ---
 
