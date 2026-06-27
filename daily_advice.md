@@ -5,8 +5,8 @@
 
 ---
 
-**Date:** June 26, 2026  
-**Advice:** Write code comments that explain complex business logic.
+**Date:** June 27, 2026  
+**Advice:** Use git bisect to find the commit that introduced a bug.
 
 ---
 
