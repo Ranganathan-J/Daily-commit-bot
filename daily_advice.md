@@ -5,8 +5,8 @@
 
 ---
 
-**Date:** June 27, 2026  
-**Advice:** Use git bisect to find the commit that introduced a bug.
+**Date:** June 28, 2026  
+**Advice:** Learn keyboard shortcuts for your IDE to boost productivity.
 
 ---
 
