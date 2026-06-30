@@ -5,8 +5,8 @@
 
 ---
 
-**Date:** June 29, 2026  
-**Advice:** Use git reset --soft HEAD~1 to undo the last commit but keep changes staged.
+**Date:** June 30, 2026  
+**Advice:** Keep your dependencies up to date but test thoroughly after updates.
 
 ---
 
