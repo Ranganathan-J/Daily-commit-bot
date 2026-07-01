@@ -5,8 +5,8 @@
 
 ---
 
-**Date:** June 30, 2026  
-**Advice:** Keep your dependencies up to date but test thoroughly after updates.
+**Date:** July 01, 2026  
+**Advice:** Write unit tests before implementing your features (TDD approach).
 
 ---
 
