@@ -5,8 +5,8 @@
 
 ---
 
-**Date:** July 07, 2026  
-**Advice:** Practice code reviews - they improve code quality and knowledge sharing.
+**Date:** July 08, 2026  
+**Advice:** Write unit tests before implementing your features (TDD approach).
 
 ---
 
