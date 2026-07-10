@@ -5,8 +5,8 @@
 
 ---
 
-**Date:** July 09, 2026  
-**Advice:** Learn keyboard shortcuts for your IDE to boost productivity.
+**Date:** July 10, 2026  
+**Advice:** Use git reset --soft HEAD~1 to undo the last commit but keep changes staged.
 
 ---
 
