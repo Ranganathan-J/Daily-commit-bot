@@ -5,8 +5,8 @@
 
 ---
 
-**Date:** July 11, 2026  
-**Advice:** Refactor regularly to keep your codebase clean and maintainable.
+**Date:** July 12, 2026  
+**Advice:** Use git blame to understand code history: git blame filename.ext
 
 ---
 
