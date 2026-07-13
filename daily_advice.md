@@ -5,8 +5,8 @@
 
 ---
 
-**Date:** July 12, 2026  
-**Advice:** Use git blame to understand code history: git blame filename.ext
+**Date:** July 13, 2026  
+**Advice:** Keep your dependencies up to date but test thoroughly after updates.
 
 ---
 
