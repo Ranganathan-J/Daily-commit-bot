@@ -5,8 +5,8 @@
 
 ---
 
-**Date:** July 14, 2026  
-**Advice:** Use git bisect to find the commit that introduced a bug.
+**Date:** July 15, 2026  
+**Advice:** Follow the DRY principle: Don't Repeat Yourself.
 
 ---
 
