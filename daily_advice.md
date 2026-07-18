@@ -5,8 +5,8 @@
 
 ---
 
-**Date:** July 17, 2026  
-**Advice:** Refactor regularly to keep your codebase clean and maintainable.
+**Date:** July 18, 2026  
+**Advice:** Use git bisect to find the commit that introduced a bug.
 
 ---
 
