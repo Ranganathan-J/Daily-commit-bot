@@ -5,8 +5,8 @@
 
 ---
 
-**Date:** July 23, 2026  
-**Advice:** Practice code reviews - they improve code quality and knowledge sharing.
+**Date:** July 24, 2026  
+**Advice:** Always write meaningful commit messages that explain the 'why', not just the 'what'.
 
 ---
 
