@@ -5,8 +5,8 @@
 
 ---
 
-**Date:** July 25, 2026  
-**Advice:** Use git diff to review changes before committing: git diff --staged
+**Date:** July 26, 2026  
+**Advice:** Use git cherry-pick to apply specific commits to other branches.
 
 ---
 
