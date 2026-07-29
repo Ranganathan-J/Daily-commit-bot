@@ -5,8 +5,8 @@
 
 ---
 
-**Date:** July 28, 2026  
-**Advice:** Always handle errors gracefully in your applications.
+**Date:** July 29, 2026  
+**Advice:** Use git stash to temporarily save changes: git stash push -m "work in progress"
 
 ---
 
