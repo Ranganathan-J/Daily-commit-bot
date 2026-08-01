@@ -5,8 +5,8 @@
 
 ---
 
-**Date:** July 31, 2026  
-**Advice:** Refactor regularly to keep your codebase clean and maintainable.
+**Date:** August 01, 2026  
+**Advice:** Use git tag to mark important releases: git tag -a v1.0.0 -m "Release version 1.0.0"
 
 ---
 
