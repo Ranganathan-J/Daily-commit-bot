@@ -5,8 +5,8 @@
 
 ---
 
-**Date:** August 01, 2026  
-**Advice:** Use git tag to mark important releases: git tag -a v1.0.0 -m "Release version 1.0.0"
+**Date:** August 02, 2026  
+**Advice:** Write code comments that explain complex business logic.
 
 ---
 
