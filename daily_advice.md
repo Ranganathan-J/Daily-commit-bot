@@ -5,8 +5,8 @@
 
 ---
 
-**Date:** August 03, 2026  
-**Advice:** Use git config --global alias.st status to create useful shortcuts.
+**Date:** August 04, 2026  
+**Advice:** Use git reset --soft HEAD~1 to undo the last commit but keep changes staged.
 
 ---
 
