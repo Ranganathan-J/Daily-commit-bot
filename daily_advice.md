@@ -5,8 +5,8 @@
 
 ---
 
-**Date:** August 11, 2026  
-**Advice:** Follow the DRY principle: Don't Repeat Yourself.
+**Date:** August 12, 2026  
+**Advice:** Use git tag to mark important releases: git tag -a v1.0.0 -m "Release version 1.0.0"
 
 ---
 
