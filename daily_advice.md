@@ -5,8 +5,8 @@
 
 ---
 
-**Date:** August 12, 2026  
-**Advice:** Use git tag to mark important releases: git tag -a v1.0.0 -m "Release version 1.0.0"
+**Date:** August 13, 2026  
+**Advice:** Use git bisect to find the commit that introduced a bug.
 
 ---
 
