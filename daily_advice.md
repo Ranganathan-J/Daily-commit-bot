@@ -5,8 +5,8 @@
 
 ---
 
-**Date:** August 14, 2026  
-**Advice:** Use meaningful variable names - code should read like English.
+**Date:** August 15, 2026  
+**Advice:** Always write meaningful commit messages that explain the 'why', not just the 'what'.
 
 ---
 
