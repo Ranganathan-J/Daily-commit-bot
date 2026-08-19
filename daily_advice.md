@@ -5,8 +5,8 @@
 
 ---
 
-**Date:** August 18, 2026  
-**Advice:** Use git config --global alias.st status to create useful shortcuts.
+**Date:** August 19, 2026  
+**Advice:** Never commit directly to main/master branch in team projects.
 
 ---
 
