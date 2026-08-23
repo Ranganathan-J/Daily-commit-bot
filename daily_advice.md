@@ -5,8 +5,8 @@
 
 ---
 
-**Date:** August 22, 2026  
-**Advice:** Use git reset --soft HEAD~1 to undo the last commit but keep changes staged.
+**Date:** August 23, 2026  
+**Advice:** Always write meaningful commit messages that explain the 'why', not just the 'what'.
 
 ---
 
