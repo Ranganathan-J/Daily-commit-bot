@@ -5,8 +5,8 @@
 
 ---
 
-**Date:** August 30, 2026  
-**Advice:** Use meaningful variable names - code should read like English.
+**Date:** August 31, 2026  
+**Advice:** Write code comments that explain complex business logic.
 
 ---
 
