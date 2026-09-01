@@ -5,8 +5,8 @@
 
 ---
 
-**Date:** August 31, 2026  
-**Advice:** Write code comments that explain complex business logic.
+**Date:** September 01, 2026  
+**Advice:** Use git config --global alias.st status to create useful shortcuts.
 
 ---
 
