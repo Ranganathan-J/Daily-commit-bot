@@ -5,8 +5,8 @@
 
 ---
 
-**Date:** September 03, 2026  
-**Advice:** Use git reset --soft HEAD~1 to undo the last commit but keep changes staged.
+**Date:** September 04, 2026  
+**Advice:** Use git bisect to find the commit that introduced a bug.
 
 ---
 
