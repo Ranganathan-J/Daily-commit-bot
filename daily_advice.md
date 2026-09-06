@@ -5,8 +5,8 @@
 
 ---
 
-**Date:** September 05, 2026  
-**Advice:** Create small, focused functions that do one thing well.
+**Date:** September 06, 2026  
+**Advice:** Use git blame to understand code history: git blame filename.ext
 
 ---
 
