@@ -5,8 +5,8 @@
 
 ---
 
-**Date:** September 09, 2026  
-**Advice:** Refactor regularly to keep your codebase clean and maintainable.
+**Date:** September 10, 2026  
+**Advice:** Document your code - your future self will thank you.
 
 ---
 
