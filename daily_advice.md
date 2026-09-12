@@ -5,8 +5,8 @@
 
 ---
 
-**Date:** September 11, 2026  
-**Advice:** Keep your dependencies up to date but test thoroughly after updates.
+**Date:** September 12, 2026  
+**Advice:** Follow the DRY principle: Don't Repeat Yourself.
 
 ---
 
