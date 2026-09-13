@@ -5,8 +5,8 @@
 
 ---
 
-**Date:** September 12, 2026  
-**Advice:** Follow the DRY principle: Don't Repeat Yourself.
+**Date:** September 13, 2026  
+**Advice:** Never commit directly to main/master branch in team projects.
 
 ---
 
