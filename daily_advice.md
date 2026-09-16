@@ -5,8 +5,8 @@
 
 ---
 
-**Date:** September 15, 2026  
-**Advice:** Learn keyboard shortcuts for your IDE to boost productivity.
+**Date:** September 16, 2026  
+**Advice:** Use git rebase -i HEAD~n to clean up your commit history before merging.
 
 ---
 
