@@ -5,8 +5,8 @@
 
 ---
 
-**Date:** September 16, 2026  
-**Advice:** Use git rebase -i HEAD~n to clean up your commit history before merging.
+**Date:** September 17, 2026  
+**Advice:** Keep your dependencies up to date but test thoroughly after updates.
 
 ---
 
