@@ -5,8 +5,8 @@
 
 ---
 
-**Date:** September 20, 2026  
-**Advice:** Learn keyboard shortcuts for your IDE to boost productivity.
+**Date:** September 21, 2026  
+**Advice:** Use git tag to mark important releases: git tag -a v1.0.0 -m "Release version 1.0.0"
 
 ---
 
