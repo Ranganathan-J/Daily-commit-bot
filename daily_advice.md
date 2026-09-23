@@ -5,8 +5,8 @@
 
 ---
 
-**Date:** September 22, 2026  
-**Advice:** Practice code reviews - they improve code quality and knowledge sharing.
+**Date:** September 23, 2026  
+**Advice:** Document your code - your future self will thank you.
 
 ---
 
