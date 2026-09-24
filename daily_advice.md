@@ -5,8 +5,8 @@
 
 ---
 
-**Date:** September 23, 2026  
-**Advice:** Document your code - your future self will thank you.
+**Date:** September 24, 2026  
+**Advice:** Use git log --oneline to see a clean commit history.
 
 ---
 
