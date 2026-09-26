@@ -5,8 +5,8 @@
 
 ---
 
-**Date:** September 25, 2026  
-**Advice:** Use git rebase -i HEAD~n to clean up your commit history before merging.
+**Date:** September 26, 2026  
+**Advice:** Use git blame to understand code history: git blame filename.ext
 
 ---
 
