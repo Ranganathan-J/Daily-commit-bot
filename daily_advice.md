@@ -5,8 +5,8 @@
 
 ---
 
-**Date:** September 26, 2026  
-**Advice:** Use git blame to understand code history: git blame filename.ext
+**Date:** September 27, 2026  
+**Advice:** Follow the DRY principle: Don't Repeat Yourself.
 
 ---
 
