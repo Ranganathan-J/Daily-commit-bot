@@ -5,8 +5,8 @@
 
 ---
 
-**Date:** September 28, 2026  
-**Advice:** Use git config --global alias.st status to create useful shortcuts.
+**Date:** September 29, 2026  
+**Advice:** Use git log --oneline to see a clean commit history.
 
 ---
 
