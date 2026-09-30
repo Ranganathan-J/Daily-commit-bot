@@ -5,8 +5,8 @@
 
 ---
 
-**Date:** September 29, 2026  
-**Advice:** Use git log --oneline to see a clean commit history.
+**Date:** September 30, 2026  
+**Advice:** Use git diff to review changes before committing: git diff --staged
 
 ---
 
