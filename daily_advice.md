@@ -5,8 +5,8 @@
 
 ---
 
-**Date:** October 01, 2026  
-**Advice:** Keep your dependencies up to date but test thoroughly after updates.
+**Date:** October 02, 2026  
+**Advice:** Use git stash to temporarily save changes: git stash push -m "work in progress"
 
 ---
 
