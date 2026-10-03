@@ -5,8 +5,8 @@
 
 ---
 
-**Date:** October 02, 2026  
-**Advice:** Use git stash to temporarily save changes: git stash push -m "work in progress"
+**Date:** October 03, 2026  
+**Advice:** Practice code reviews - they improve code quality and knowledge sharing.
 
 ---
 
