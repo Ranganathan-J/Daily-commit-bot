@@ -5,8 +5,8 @@
 
 ---
 
-**Date:** October 05, 2026  
-**Advice:** Write unit tests before implementing your features (TDD approach).
+**Date:** October 06, 2026  
+**Advice:** Never commit directly to main/master branch in team projects.
 
 ---
 
