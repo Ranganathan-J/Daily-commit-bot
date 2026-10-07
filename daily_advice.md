@@ -5,8 +5,8 @@
 
 ---
 
-**Date:** October 06, 2026  
-**Advice:** Never commit directly to main/master branch in team projects.
+**Date:** October 07, 2026  
+**Advice:** Remember to pull before you push: git pull origin main && git push origin branch-name
 
 ---
 
