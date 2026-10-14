@@ -5,8 +5,8 @@
 
 ---
 
-**Date:** October 13, 2026  
-**Advice:** Use git bisect to find the commit that introduced a bug.
+**Date:** October 14, 2026  
+**Advice:** Use git branch for feature development: git checkout -b feature/new-feature
 
 ---
 
