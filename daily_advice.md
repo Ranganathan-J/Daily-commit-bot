@@ -5,8 +5,8 @@
 
 ---
 
-**Date:** October 15, 2026  
-**Advice:** Use git branch for feature development: git checkout -b feature/new-feature
+**Date:** October 16, 2026  
+**Advice:** Write code comments that explain complex business logic.
 
 ---
 
