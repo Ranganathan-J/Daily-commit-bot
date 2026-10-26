@@ -5,8 +5,8 @@
 
 ---
 
-**Date:** October 25, 2026  
-**Advice:** Learn keyboard shortcuts for your IDE to boost productivity.
+**Date:** October 26, 2026  
+**Advice:** Write code comments that explain complex business logic.
 
 ---
 
