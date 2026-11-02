@@ -5,8 +5,8 @@
 
 ---
 
-**Date:** November 01, 2026  
-**Advice:** Use git stash to temporarily save changes: git stash push -m "work in progress"
+**Date:** November 02, 2026  
+**Advice:** Use git reset --soft HEAD~1 to undo the last commit but keep changes staged.
 
 ---
 
