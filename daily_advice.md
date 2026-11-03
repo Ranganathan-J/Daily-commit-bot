@@ -5,8 +5,8 @@
 
 ---
 
-**Date:** November 02, 2026  
-**Advice:** Use git reset --soft HEAD~1 to undo the last commit but keep changes staged.
+**Date:** November 03, 2026  
+**Advice:** Write unit tests before implementing your features (TDD approach).
 
 ---
 
