@@ -5,8 +5,8 @@
 
 ---
 
-**Date:** November 03, 2026  
-**Advice:** Write unit tests before implementing your features (TDD approach).
+**Date:** November 04, 2026  
+**Advice:** Use git tag to mark important releases: git tag -a v1.0.0 -m "Release version 1.0.0"
 
 ---
 
