@@ -5,8 +5,8 @@
 
 ---
 
-**Date:** November 07, 2026  
-**Advice:** Use meaningful variable names - code should read like English.
+**Date:** November 08, 2026  
+**Advice:** Follow the DRY principle: Don't Repeat Yourself.
 
 ---
 
