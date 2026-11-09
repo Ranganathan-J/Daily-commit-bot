@@ -5,8 +5,8 @@
 
 ---
 
-**Date:** November 08, 2026  
-**Advice:** Follow the DRY principle: Don't Repeat Yourself.
+**Date:** November 09, 2026  
+**Advice:** Use git log --oneline to see a clean commit history.
 
 ---
 
