@@ -5,8 +5,8 @@
 
 ---
 
-**Date:** November 11, 2026  
-**Advice:** Follow the DRY principle: Don't Repeat Yourself.
+**Date:** November 12, 2026  
+**Advice:** Use git config --global alias.st status to create useful shortcuts.
 
 ---
 
