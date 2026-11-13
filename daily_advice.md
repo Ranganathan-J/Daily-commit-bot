@@ -5,8 +5,8 @@
 
 ---
 
-**Date:** November 12, 2026  
-**Advice:** Use git config --global alias.st status to create useful shortcuts.
+**Date:** November 13, 2026  
+**Advice:** Remember to pull before you push: git pull origin main && git push origin branch-name
 
 ---
 
